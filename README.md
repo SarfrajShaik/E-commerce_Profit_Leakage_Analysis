@@ -116,11 +116,11 @@ E-Commerce Profit Leakage Analysis Project
   - Introduce product-level profitability monitoring before approving large discounts.
 
 * Project Structure -
-  Ecommerce-Profit-Leakage-Analysis\
-  -> data/superstore_cleaned.csv
-  -> dashboard/Ecommerce_Profit_Leakage_Analysis.pbix
-  -> images/dashboard.png
-  -> README.md
+  Ecommerce-Profit-Leakage-Analysis/
+  - data/superstore_cleaned.csv
+  - dashboard/Ecommerce_Profit_Leakage_Analysis.pbix
+  - images/dashboard.png
+  - README.md
 
 * Project Outcome - 
   This project demonstrates an end-to-end data analytics workflow:
